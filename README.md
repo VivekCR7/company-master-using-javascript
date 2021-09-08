@@ -28,7 +28,7 @@ Two dataset has been used for this project:
 Clone the project
 
 ```bash
-git clone git@gitlab.com:mountblue/cohort-17-python/vivek-dubey/company-master-javascript-version.git
+~ git clone git@gitlab.com:mountblue/cohort-17-python/vivek-dubey/company-master-javascript-version.git
 ```
 
 Go to the project directory
